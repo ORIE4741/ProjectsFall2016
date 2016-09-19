@@ -10,7 +10,7 @@ To add the link of your repository, you need to fork this repository, create a f
   1. In the repository you just forked, click **Create new file**.
   2. Name it as **_(The name of your project)_.md**.
   3. Type the link of the repository of your project in the following format:
-  4. **\[_The name of your project_\]\(_The url of the repository_\) by _your names_**. See Example ORIE4741-Project.md as an example by editing it (by clicking the pen icon).
+  4. **\[_The name of your project_\]\(_The url of the repository_\) by _your names_**. See ExampleProject.md as an example by editing it (by clicking the pen icon).
   5. Commit new file.
   6. Check if it has the same format as our example.
 3. Create a pull request from a fork:
