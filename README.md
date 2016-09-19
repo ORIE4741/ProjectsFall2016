@@ -4,5 +4,5 @@ This is a repository that contains the list of links of the repositories of the 
 To add the link of your repository,
 
 1. Creating a fork.
-  * Click the **Fork** button on the top right.
-  * Choose your account.
+  1. Click the **Fork** button on the top right.
+  2. Choose your account.
