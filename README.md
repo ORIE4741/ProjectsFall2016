@@ -17,7 +17,7 @@ To add the link of your repository, you need to fork this repository, create a f
   1. Navigate back to the original repository (This one).
   2. To the right of the Branch menu, click **New pull request**.
   3. On the Compare page, click **compare across forks**.
-  4. Confirm that the *base fork* if the original repository. 
+  4. Confirm that the *base fork* is the original repository. 
   5. Use the *head fork* drop-down menu to select your fork.
   6. Type the title and description for your pull request.
   7. Click **Create pull request**.
