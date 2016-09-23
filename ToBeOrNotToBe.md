@@ -1,1 +1,1 @@
-[To Be or Not To Be](https://github.com/deeptisabnani/ORIE4741Project1) By Alex Cho, Deepti Sabnani and Sung Kyun Park.
+[ToBeOrNotToBe](https://github.com/deeptisabnani/ORIE4741Project1) By Alex Cho, Deepti Sabnani and Sung Kyun Park.
