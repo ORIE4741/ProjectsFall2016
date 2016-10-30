@@ -1,1 +1,1 @@
-[SoybeanVarietySelection](https://github.com/ANGELA6XU/SoybeanVarietySelection) By Jingzhuo Xu and Xueqi Zhao
+[SoybeanVarietySelection.md](https://github.com/PatNicholson/NewNKSoy) By Jingzhuo Xu and Xueqi Zhao
