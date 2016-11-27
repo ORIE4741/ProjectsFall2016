@@ -1,7 +1,7 @@
 ORIE 4741 Team Project Proposal
 Identifying Gender based on Voice samples
 
-Team : Siva sp2337 Premdeep Sharma ps882
+Team : Siva sp2337 Premdeep Sharma ps882 michael Hwang mh634
 September 2016
 
 
